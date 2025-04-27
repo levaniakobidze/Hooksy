@@ -1,0 +1,18 @@
+{
+  "name": "hooksy",
+  "version": "1.0.0",
+  "description": "A collection of essential React custom hooks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "hooks",
+    "custom-hooks",
+    "toolkit",
+    "hooksy"
+  ],
+  "author": "LevanIakobidze",
+  "license": "MIT"
+}
